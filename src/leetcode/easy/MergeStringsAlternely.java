@@ -1,6 +1,6 @@
 package leetcode.easy;
 
-// https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+// https://leetcode.com/problems/merge-strings-alternately/
 public class MergeStringsAlternely {
     public String mergeAlternately(String word1, String word2) {
         int lenWord1 = word1.length();
